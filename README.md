@@ -10,7 +10,6 @@ The following requirements have been met:
 - Pagination
 - Debounced search
 - Several recipes select and count the ingredients needed to prepare them. You need to display basic information about the selected recipes and combine their ingredients into one list
-- 
 
 ## Technologies Utilized
 
