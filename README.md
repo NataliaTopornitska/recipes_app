@@ -1,6 +1,6 @@
 # Recipes App
 
- [DEMO LINK]()
+ [DEMO LINK](https://nataliatopornitska.github.io/recipes_app/)
 
 The following requirements have been met:
 
