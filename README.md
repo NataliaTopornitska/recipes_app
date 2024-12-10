@@ -24,6 +24,6 @@ The task includes the following technologies:
 
 ## Additional launch instructions:
 
-- git clone
+- git clone https://github.com/NataliaTopornitska/recipes_app?tab=readme-ov-file
 - npm install
 - npm start
